@@ -1,0 +1,6 @@
+disk.img
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
